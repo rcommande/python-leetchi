@@ -34,7 +34,6 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        'distribute',
         'requests',
         'simplejson>=2.0.9',
         'M2Crypto>=0.21.1',
